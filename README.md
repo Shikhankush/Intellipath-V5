@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intellipath  - AI-Powered Personalized Learning Platform
 
 Intellipath  is a cutting-edge educational platform that leverages Artificial Intelligence to generate personalized curriculum, quizzes, and learning paths instantly. Built with the **MERN stack**, **Next.js 16**, and **Ollama**, it offers a premium, adaptive learning experience tailored to each user.
@@ -129,3 +130,7 @@ Intellipath /
 ## 🛡️ License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# Intellipath-V5
+Intellipath is an AI-powered e-learning platform that combines live classes, recorded lectures, study materials, and assessments with Ollama-based AI course generation. It creates personalized learning paths, ensures data privacy through local AI processing, and helps students and professionals achieve their learning goals efficiently.
+>>>>>>> d4766f97f185d9d3f4631004e1e34c1097c4293c
